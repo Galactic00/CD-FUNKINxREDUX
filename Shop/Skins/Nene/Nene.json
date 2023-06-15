@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-39,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nene_LEFT"
+		},
+		{
+			"offsets": [
+				-8,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Nene_DOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Nene_UP"
+		},
+		{
+			"offsets": [
+				7,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nene_RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Nene_IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NENE_SPRITES_CDSCRATCHIN",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "Nene",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		30,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
